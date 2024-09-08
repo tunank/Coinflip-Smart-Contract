@@ -1,6 +1,6 @@
 # CoinFlip Solidity Smart Contract
 
-## Contract Address for test: 0x0c04B7Fc210B8d73bc56782d12B3A1bB8C4b610A
+## Contract Address for test (Sepolia Testnet): 0x0c04B7Fc210B8d73bc56782d12B3A1bB8C4b610A
 
 ## Overview
 
