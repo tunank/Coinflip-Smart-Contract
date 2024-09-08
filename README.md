@@ -1,5 +1,7 @@
 # CoinFlip Solidity Smart Contract
 
+## Contract Address for test: 0x0c04B7Fc210B8d73bc56782d12B3A1bB8C4b610A
+
 ## Overview
 
 The **CoinFlip** smart contract is a decentralized betting game where users can wager on the outcome of a coin flip (heads or tails). It uses the **Chainlink VRF (Verifiable Random Function)** to generate provably random results for the coin flips, ensuring fairness and transparency. Players place bets in Ether, and if they guess the outcome correctly, they win double their bet amount. The contract also implements security features like reentrancy protection and error handling.
